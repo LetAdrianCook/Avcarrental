@@ -1,0 +1,147 @@
+@font-face {
+    font-family: tesla;
+    src: url(./fonts/TESLA.ttf);
+    
+  }
+
+@font-face {
+    font-family: goodtimes;
+    src: url(./fonts/goodtimes.otf);
+    
+  }
+
+
+  .custom-navbar  {
+    background-color: #080808; 
+    padding-bottom: 8px;
+    padding-top: 8px;
+    
+  }
+
+  .navbar-brand {
+    font-family: tesla;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 7px;
+    
+  }
+  .navbar-brand img {
+    height: 37px; 
+    width: 40px; 
+  }
+   
+
+.navbar-nav li{
+    padding-left:20px;
+    padding-right:20px;
+    font-family: goodtimes;
+    font-size: 13px;
+    margin-bottom: 3px;
+    margin-top: 3px;
+    
+}
+
+.navbar li.active a {
+    color: white;
+    
+  }
+
+  .navbar li:hover a {
+    color: #e89c31;
+  }
+
+  .custom-btn {
+    margin-right: 20px;
+   background-color: white;
+   font-family: goodtimes;
+   font-size: 14px;
+   outline: none;
+   border-radius: 20px;
+   
+
+  }
+
+  .custom-btn2 {
+    margin-right: 10px;
+   background-color: rgb(121, 109, 109);
+   font-family: goodtimes;
+   font-size: 14px;
+   outline: none;
+   border-radius: 20px;
+   
+
+  }
+
+
+  .button-container {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .custom-btn:hover {
+    background-color: #e89c31; /* or any background color of your choice */
+    color: white; /* or any font color of your choice */
+   
+  }
+
+  .carousel {
+    height: 500px; /* adjust the height as desired */
+  }
+  
+  .carousel-inner img {
+    height: 550px; 
+    weight: 400px;
+  }
+  
+
+  .carousel-control-prev,
+.carousel-control-next {
+  margin-top: 250px;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 3rem;
+  height: 3rem;
+  background-color: black;
+  border-radius: 10px;
+
+}
+
+#learn1-button {
+ background-color: #080808;
+ color: #fff;
+ border-radius: 10px;
+ font-family: goodtimes;
+}
+
+#learn1-button:hover {
+  background-color: white;
+  color: #e89c31;
+  font-family: goodtimes;
+  border-color: black; 
+
+}
+
+
+footer{margin-top: 30px;}
+
+
+body {
+    background-image: url('./backgrounds/bg1.jpg');
+    background-size: cover;
+}
+
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #6a11cb;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
+    }
+
+    
+    option{
+      text-align: center;
+    }

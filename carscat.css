@@ -1,0 +1,295 @@
+@font-face {
+    font-family: tesla;
+    src: url(./fonts/TESLA.ttf);
+    
+  }
+
+@font-face {
+    font-family: goodtimes;
+    src: url(./fonts/goodtimes.otf);
+    
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  #cards_landscape_wrap-2{
+    text-align: center;
+    background: #ffffff;
+  }
+  #cards_landscape_wrap-2 .container{
+    padding-bottom: 100px;
+
+  }
+  #cards_landscape_wrap-2 a{
+    text-decoration: none;
+    outline: none;
+  }
+
+  #cards_landscape_wrap-2 .card-flyer .image-box{
+    background: #ffffff;
+    overflow: hidden;
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.50);
+    
+  }
+  #cards_landscape_wrap-2 .card-flyer .image-box img{
+    -webkit-transition:all .9s ease; 
+    -moz-transition:all .9s ease; 
+    -o-transition:all .9s ease;
+    -ms-transition:all .9s ease; 
+    width: 100%;
+    height: 200px;
+  }
+  #cards_landscape_wrap-2 .card-flyer:hover .image-box img{
+    opacity: 0.7;
+    -webkit-transform:scale(1.15);
+    -moz-transform:scale(1.15);
+    -ms-transform:scale(1.15);
+    -o-transform:scale(1.15);
+    transform:scale(1.15);
+  }
+  #cards_landscape_wrap-2 .card-flyer .text-box{
+    text-align: center;
+  }
+  #cards_landscape_wrap-2 .card-flyer .text-box .text-container{
+    padding: 30px 18px;
+    height: 230px;
+  }
+  #cards_landscape_wrap-2 .card-flyer{
+    background: #FFFFFF;
+    margin-top: 50px;
+    -webkit-transition: all 0.2s ease-in;
+    -moz-transition: all 0.2s ease-in;
+    -ms-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+    box-shadow: 0px 3px 4px rgba(0, 0, 0, 0.40);
+  }
+  #cards_landscape_wrap-2 .card-flyer:hover{
+    background: #fff;
+    box-shadow: 0px 15px 26px rgba(0, 0, 0, 0.50);
+    -webkit-transition: all 0.2s ease-in;
+    -moz-transition: all 0.2s ease-in;
+    -ms-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+    margin-top: 50px;
+  }
+  #cards_landscape_wrap-2 .card-flyer .text-box p{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    padding-bottom: 0px; 
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #000000;
+    text-align: left;
+  }
+  #cards_landscape_wrap-2 .card-flyer .text-box h6{
+    margin-top: 0px;
+    margin-bottom: 4px; 
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: 'Roboto Black', sans-serif;
+    letter-spacing: 1px;
+    color: #e89c31;
+  }
+
+  .custom-navbar  {
+    background-color: #080808; 
+    padding-bottom: 8px;
+    padding-top: 8px;
+    
+  }
+
+  .navbar-brand {
+    font-family: tesla;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 7px;
+    
+  }
+  .navbar-brand img {
+    height: 37px; 
+    width: 40px; 
+  }
+   
+
+.navbar-nav li{
+    padding-left:20px;
+    padding-right:20px;
+    font-family: goodtimes;
+    font-size: 13px;
+    margin-bottom: 3px;
+    margin-top: 3px;
+    
+}
+
+.navbar li.active a {
+    color: white;
+    
+  }
+
+  .navbar li:hover a {
+    color: #e89c31;
+  }
+
+  .custom-btn {
+    margin-right: 10px;
+   background-color: white;
+   font-family: goodtimes;
+   font-size: 14px;
+   outline: none;
+   border-radius: 20px;
+   
+
+  }
+
+
+  .button-container {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .custom-btn:hover {
+    background-color: red; /* or any background color of your choice */
+    color: white; /* or any font color of your choice */
+   
+  }
+
+  .carousel {
+    height: 500px; /* adjust the height as desired */
+  }
+  
+  .carousel-inner img {
+    height: 550px; 
+    weight: 400px;
+  }
+  
+
+  .carousel-control-prev,
+.carousel-control-next {
+  margin-top: 250px;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 3rem;
+  height: 3rem;
+  background-color: black;
+  border-radius: 10px;
+
+}
+
+#learn1-button {
+ background-color: #080808;
+ color: #fff;
+ border-radius: 10px;
+ font-family: goodtimes;
+}
+
+#learn1-button:hover {
+  background-color: white;
+  color: #e89c31;
+  font-family: goodtimes;
+  border-color: black; 
+
+}
+
+#carousel-item-1 h4 {
+  font-family: goodtimes;
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
+}
+#caption2 p {
+font-size: 18px;
+}
+
+#caption1 p {
+  color: black;
+}
+
+#caption3 h4 {
+   font-family: goodtimes;
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 20px;
+}
+
+#carousel-item-2 h4 {
+  font-family: goodtimes;
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 20px;
+}
+
+#carousel-item-3 h4 {
+  font-family: goodtimes;
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 20px;
+}
+
+#contact-info p {
+background-color: #c32424;
+padding-top: 50px;
+padding-bottom: 50px;
+margin-top: 20px;
+text-align: center;
+color: white;
+}
+
+#card-title h4 {
+  padding-top: 30px;
+  font-size: 20px;
+  font-family: goodtimes;
+  color: #e89c31;
+  text-align: center;
+  font-weight: bolder;
+    }
+    @media only screen and (max-width: 768px) {
+      #card-title {
+        text-align: left;
+      }
+    }
+  
+.card h5 {
+    font-size: 20px; /* adjust as needed */
+    background-color: black;
+    padding-bottom: 2px;
+    color: #e89c31;
+  
+  }
+
+  .card-text {
+    text-align: justify;
+  }
+
+
+  .card {
+
+border: #080808 solid 3px;
+border-left:white solid 1px;
+  }
+
+  footer{margin-top: 30px;}
+
+
+  .modal {
+    z-index: 9999;
+  }
+
+  #cards_landscape_wrap-2 .card-flyer .text-box .custom-text-container1{
+    padding: 30px 18px;
+    height: 230px;
+  }
+
+  #cards_landscape_wrap-2 .card-flyer .text-box .custom-text-container2{
+    padding: 30px 18px;
+    height: 260px;
+  }
+
+  

@@ -1,0 +1,54 @@
+Economy:
+Toyota Vios
+Honda City
+Mitsubishi Mirage
+Kia Picanto
+Suzuki Celerio
+
+Compact:
+Toyota Corolla Altis
+Honda Civic
+Mazda 3
+Hyundai Elantra
+Kia Forte
+
+Full-size:
+Toyota Avalon
+Honda Legend
+Lexus ES
+Kia Cadenza
+Mercedes-Benz E-Class
+
+Luxury:
+Lexus LS
+BMW 7 Series
+Audi A8
+Mercedes-Benz S-Class
+Jaguar XJ
+
+SUV:
+Toyota Fortuner
+Mitsubishi Montero Sport
+Nissan Terra
+Isuzu MU-X
+Ford Everest
+
+Van:
+Toyota Hiace
+Hyundai Starex
+Nissan Urvan
+Kia Grand Carnival
+Ford Transit
+
+
+Sports:
+Toyota 86
+Subaru BRZ
+Mazda MX-5 RF
+Nissan 370Z
+Ford Mustang GT
+
+
+
+
+The Truck category is ideal for those seeking a vehicle with a larger cargo capacity and hauling abilities. These trucks are commonly used for business purposes like transporting goods or construction materials and can also be utilized for personal reasons such as moving furniture or towing a trailer. In the Philippines, trucks are a frequent sight on the roads, and this category provides various options to suit different needs. Some popular trucks in the Philippines are Isuzu N-Series, Hino 300 Series, Foton Tornado, Hyundai HD65, and Mitsubishi Fuso Canter, which offer different levels of power, payload capacity, and fuel efficiency. With a wide range of options, the Truck category is a great option for those who require transportation for substantial items or business operations.
